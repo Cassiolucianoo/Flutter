@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "477915819244",
+    "firebase_url": "https://speed-on-wheels.firebaseio.com",
+    "project_id": "speed-on-wheels",
+    "storage_bucket": "speed-on-wheels.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:477915819244:android:7de50ade2120db1b5389c9",
+        "android_client_info": {
+          "package_name": "com.cassiolucianodasilva.s_on_w"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "477915819244-rp6mceo4184o94qlksj2564rri9endvr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3tTHeqb4LjT9RjTaZWmNki72PJvwbQ7Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "477915819244-rp6mceo4184o94qlksj2564rri9endvr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
